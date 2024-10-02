@@ -12,7 +12,7 @@ To run this project, you will need to have Python installed on your machine alon
 Clone the repository:
 
 
-
+https://github.com/abdul-ta/eye-controlled-mouse.git
 cd eye-controlled-mouse
 Install the required libraries:
 
@@ -45,4 +45,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 
 Contact
-For any questions or inquiries, please reach out via [your email or GitHub profile link].
+For any questions or inquiries, please reach out via [(https://github.com/abdul-ta)].
